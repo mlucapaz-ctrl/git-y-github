@@ -79,3 +79,27 @@ button:active {
         transform: translateY(0);
     }
 }
+.sobre-nosotros {
+  padding: 15px;
+  background-color: #f2f2f2;
+  border-radius: 4px;
+  margin-top: 20px;
+}
+
+.sobre-nosotros h2 {
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.sobre-nosotros p {
+  color: #555;
+  margin-bottom: 10px;
+}
+
+.sobre-nosotros img {
+  width: 100%;
+  max-width: 300px;
+  display: block;
+  margin: 10px 0;
+  border-radius: 4px;
+}
